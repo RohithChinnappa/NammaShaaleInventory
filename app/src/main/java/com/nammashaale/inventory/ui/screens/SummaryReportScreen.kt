@@ -1,3 +1,4 @@
+// Summary report - shareable inventory report
 package com.nammashaale.inventory.ui.screens
 
 import android.content.Intent
