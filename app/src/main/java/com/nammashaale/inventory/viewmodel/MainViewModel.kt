@@ -1,3 +1,4 @@
+// ViewModel - manages UI state using MVVM
 package com.nammashaale.inventory.viewmodel
 
 import android.app.Application
