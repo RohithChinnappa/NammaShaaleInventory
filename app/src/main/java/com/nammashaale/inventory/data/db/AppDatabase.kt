@@ -1,3 +1,4 @@
+// Room Database - stores all school assets, health checks and issue logs
 package com.nammashaale.inventory.data.db
 
 import android.content.Context
