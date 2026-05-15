@@ -1,3 +1,4 @@
+// Dashboard - shows asset statistics
 package com.nammashaale.inventory.ui.screens
 
 import androidx.compose.foundation.layout.*
