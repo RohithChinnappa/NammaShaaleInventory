@@ -114,3 +114,12 @@ Project 59 — Android App Development using GenAI
 ---
 📄 License
 This project was developed as part of the MindMatrix VTU Internship Program.
+## 📸 Screenshots
+
+| Dashboard | Asset Register |
+|---|---|
+| ![Dashboard](screenshots/WhatsApp%20Image%202026-05-14%20at%2012.02.29%20AM.jpeg) | ![Assets](screenshots/WhatsApp%20Image%202026-05-14%20at%2012.25.43%20AM.jpeg) |
+
+| Health Check | Issue Log |
+|---|---|
+| ![Health](screenshots/WhatsApp%20Image%202026-05-14%20at%2012.26.03%20AM.jpeg) | ![Issues](screenshots/WhatsApp%20Image%202026-05-14%20at%2012.26.29%20AM.jpeg) |
